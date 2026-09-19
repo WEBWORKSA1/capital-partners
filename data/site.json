@@ -1,0 +1,20 @@
+{
+  "_README": "This is the ONLY file you need to edit to turn on revenue. Paste IDs/links, commit, and the site rebuilds and redeploys automatically.",
+  "domain": "https://capital.partners",
+  "name": "Capital Partners",
+  "contact_email": "hello@capital.partners",
+  "adsense_client": "",
+  "adsense_slot_inline": "",
+  "ga4_id": "",
+  "partners": {
+    "sba":       {"name": "", "url": ""},
+    "term":      {"name": "", "url": ""},
+    "loc":       {"name": "", "url": ""},
+    "equipment": {"name": "", "url": ""},
+    "factoring": {"name": "", "url": ""},
+    "rbf":       {"name": "", "url": ""},
+    "mca":       {"name": "", "url": ""},
+    "equity":    {"name": "", "url": ""}
+  },
+  "primary_cta": {"name": "", "url": ""}
+}
