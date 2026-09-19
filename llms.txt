@@ -1,0 +1,19 @@
+# Capital Partners
+> Independent small business funding calculators and guides (US).
+
+- [Business Loan Calculator](https://webworksa1.github.io/capital-partners/tools/business-loan-calculator/): Calculate monthly payments, total interest and the true APR of a business loan including origination fees.
+- [SBA 7(a) Loan Calculator](https://webworksa1.github.io/capital-partners/tools/sba-loan-calculator/): Estimate SBA 7(a) payments using today's prime rate and the SBA maximum rate for your loan size.
+- [Merchant Cash Advance APR Calculator](https://webworksa1.github.io/capital-partners/tools/mca-apr-calculator/): Convert a merchant cash advance factor rate into a true APR and see the real daily payment.
+- [DSCR Calculator: How Much Can You Borrow?](https://webworksa1.github.io/capital-partners/tools/dscr-calculator/): Calculate your debt service coverage ratio and the maximum loan lenders will likely approve at 1.25x.
+- [Equipment Financing Calculator: Loan vs. Lease](https://webworksa1.github.io/capital-partners/tools/equipment-financing-calculator/): Compare the total cost of an equipment loan against a lease, including down payment and buyout.
+- [Invoice Factoring Calculator](https://webworksa1.github.io/capital-partners/tools/invoice-factoring-calculator/): Calculate your factoring advance, fees, rebate and the effective annual cost of factoring an invoice.
+- [Small Business Valuation Calculator (SDE Multiple)](https://webworksa1.github.io/capital-partners/tools/business-valuation-calculator/): Estimate what a small business is worth using seller's discretionary earnings and a market multiple.
+- [Startup Runway Calculator](https://webworksa1.github.io/capital-partners/tools/startup-runway-calculator/): Calculate how many months of cash you have left, when you break even, and when to start fundraising.
+- [SBA 7(a) Loans: Rates, Limits and How to Qualify](https://webworksa1.github.io/capital-partners/guides/sba-7a-loans/): Current SBA 7(a) maximum rates, loan limits, guaranty percentages, eligibility and the documents lenders ask for.
+- [Business Loans With Bad Credit: What Actually Works](https://webworksa1.github.io/capital-partners/guides/business-loan-bad-credit/): Which funding options accept low credit scores, what they cost, and how to avoid the debt traps aimed at struggling businesses.
+- [Merchant Cash Advance vs. Business Loan: The Real Cost](https://webworksa1.github.io/capital-partners/guides/merchant-cash-advance-vs-loan/): How merchant cash advances work, how to convert a factor rate to APR, and when an MCA is ever the right call.
+- [Equipment Financing: Loans vs. Leases and What You'll Pay](https://webworksa1.github.io/capital-partners/guides/equipment-financing/): How equipment loans and leases work, typical terms, and how to decide between buying and leasing.
+- [Invoice Factoring: How It Works and What It Costs](https://webworksa1.github.io/capital-partners/guides/invoice-factoring/): Factoring vs. invoice financing, advance rates, fee structures and the effective annual cost of turning invoices into cash.
+- [Business Line of Credit: The Most Flexible Capital You Can Get](https://webworksa1.github.io/capital-partners/guides/business-line-of-credit/): How business lines of credit work, requirements, costs, and how they compare with term loans.
+- [Revenue-Based Financing: Growth Capital Without Giving Up Equity](https://webworksa1.github.io/capital-partners/guides/revenue-based-financing/): How revenue-based financing works for SaaS and e-commerce, typical caps, and how it compares with venture capital and loans.
+- [Startup Funding Options: From Bootstrapping to Venture Capital](https://webworksa1.github.io/capital-partners/guides/startup-funding-options/): Every realistic way to fund a startup, what each costs in equity or interest, and which stage each option fits.
